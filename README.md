@@ -1,4 +1,4 @@
-[ink to page]https://deniskibichiy.github.io/dynamic_shopping_list/
+[link to page](https://deniskibichiy.github.io/dynamic_shopping_list/)
 
 # dynamic_shopping_list
 A dynamic shopping list to practice DOM manipulation with events and methods
